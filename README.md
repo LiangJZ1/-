@@ -9,7 +9,6 @@
 纯c语言开发
 
 
+[](image\1.png)
 
-![](.\image\1.png)
-
-![](.\image\2.png)
+[](image\2.png)
